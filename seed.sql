@@ -1,0 +1,23 @@
+INSERT INTO artists (record_label_id, name) VALUES(1,'Metallica');
+INSERT INTO artists (record_label_id, name) VALUES(2,'Megadeth');
+INSERT INTO artists (record_label_id, name) VALUES(3,'Anthrax');
+INSERT INTO artists (record_label_id, name) VALUES(2,'Eric Clapton');
+INSERT INTO artists (record_label_id, name) VALUES(2,'ZZ Top');
+INSERT INTO artists (record_label_id, name) VALUES(2,'Van Halen');
+INSERT INTO artists (record_label_id, name) VALUES(3,'Lynyrd Skynyrd');
+INSERT INTO artists (record_label_id, name) VALUES(3,'AC/DC');
+INSERT INTO artists (record_label_id, name) VALUES(6,'The Beatles');
+
+INSERT INTO album (artist_id, name, year) VALUES( 1,'...And Justice For All',1988);
+INSERT INTO album (artist_id, name, year)VALUES(1, 'Black Album',1991);
+INSERT INTO album (artist_id, name, year) VALUES(1, 'Master of Puppets',1986);
+INSERT INTO album (artist_id, name, year) VALUES(2, 'Endgame',2009);
+INSERT INTO album (artist_id, name, year) VALUES(2, 'Peace Sells',1986);
+INSERT INTO album (artist_id, name, year) VALUES(3, 'The Greater of 2 Evils',2004);
+INSERT INTO album (artist_id, name, year) VALUES(4, 'Reptile',2001);
+INSERT INTO album (artist_id, name, year) VALUES(4, 'Riding with the King',2000);
+INSERT INTO album (artist_id, name, year) VALUES(5, 'Greatest Hits',1992);
+INSERT INTO album (artist_id, name, year) VALUES(6, 'Greatest Hits',2004);
+INSERT INTO album (artist_id, name, year) VALUES(7, 'All-Time Greatest Hits',1975);
+INSERT INTO album (artist_id, name, year) VALUES(8, 'Greatest Hits',2003);
+INSERT INTO album (artist_id, name, year) VALUES(9, 'Sgt. Pepper''s Lonely Hearts Club Band', 1967);
